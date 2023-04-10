@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Version 2
-# 
 
-# In[1]:
 
 
 from paho.mqtt import client as mqtt_client
